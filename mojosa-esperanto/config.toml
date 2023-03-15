@@ -1,0 +1,5 @@
+baseURL = 'http://alia-esperantista-organizo.github.io/'
+languageCode = 'en-us'
+title = 'Mojosa Esperanto'
+
+theme = 'cupper-hugo-theme'
