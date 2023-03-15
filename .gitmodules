@@ -1,0 +1,3 @@
+[submodule "mojosa-esperanto/themes/terminal"]
+	path = mojosa-esperanto/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
