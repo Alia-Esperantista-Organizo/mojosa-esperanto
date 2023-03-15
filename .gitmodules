@@ -1,3 +1,9 @@
 [submodule "mojosa-esperanto/themes/terminal"]
 	path = mojosa-esperanto/themes/terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "mojosa-esperanto/themes/hugo-book"]
+	path = mojosa-esperanto/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "mojosa-esperanto/themes/PaperMod"]
+	path = mojosa-esperanto/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
